@@ -19,3 +19,4 @@
 
 Previous lesson: stolbitsa.com/fistachka/umka<br><br>
 
+![](https://github.com/user-attachments/assets/b245684c-b337-47b3-a60e-3dd9893d49f8)
