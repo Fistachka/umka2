@@ -2,7 +2,7 @@
 <level>
   <owner>Fistachka</owner>
   <repo>umka2</repo>
-  <version>v1.0.5</version>
+  <version>v1.0.6</version>
   <next number="1" owner="Fistachka" repo="funtik"/>
   <readme>
     <ru>4e26b3f598f78db2372fca91d00bcc3d0041385b1d6bce1c5668f405b4d81258</ru>
@@ -16,12 +16,12 @@
     <tonalities>4</tonalities>
     <video name="7t.mp4" size="658521" type="video/mp4" volume="0.5">3fb429d014e9ddea74f228a40b2243cb72aaa6361cc5da50108e3dd8f496ad70</video>
     <notes>
-      <note number="1" values="58" ticks="324" durationTicks="49" ppq="96" velocity="0.843"/>
-      <note number="2" values="68" ticks="373" durationTicks="40" ppq="96" velocity="0.913"/>
-      <note number="3" values="68" ticks="420" durationTicks="49" ppq="96" velocity="0.834"/>
-      <note number="4" values="58" ticks="481" durationTicks="42" ppq="96" velocity="0.913"/>
-      <note number="5" values="68" ticks="528" durationTicks="47" ppq="96" velocity="0.913"/>
-      <note number="6" values="58" ticks="576" durationTicks="95" ppq="96" velocity="0.913"/>
+      <note number="1" values="58" ticks="60" durationTicks="38" ppq="96" velocity="0.843"/>
+      <note number="2" values="68" ticks="119" durationTicks="40" ppq="96" velocity="0.913"/>
+      <note number="3" values="68" ticks="160" durationTicks="49" ppq="96" velocity="0.834"/>
+      <note number="4" values="58" ticks="217" durationTicks="42" ppq="96" velocity="0.913"/>
+      <note number="5" values="68" ticks="264" durationTicks="47" ppq="96" velocity="0.913"/>
+      <note number="6" values="58" ticks="318" durationTicks="68" ppq="96" velocity="0.913"/>
     </notes>
   </exercise>
   <exercise number="2">
