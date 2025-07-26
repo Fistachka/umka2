@@ -6,6 +6,13 @@
 <iframe width="315" height="560" src="https://www.youtube.com/embed/idIQIBY-iSQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/JoQBHYZdkuM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 
+Мы плывем на льдине,
+Как на бригантине
+По седым суровым морям.
+И всю ночь соседи -
+Звездные медведи
+Светят дальним кораблям...
+
 Предыдущий урок: stolbitsa.com/fistachka/umka
 <br><br>
 
@@ -15,6 +22,13 @@
 
 <iframe width="315" height="560" src="https://www.youtube.com/embed/E_QANMn_H9s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/zZxyaC5_WoM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"allowfullscreen></iframe>
+
+My plyvem na l'dine,
+Kak na brigantine
+Po sedym surovym moryam.
+I vsyu noch' sosedi -
+Zvezdnye medvedi
+Svetyat dal'nim korablyam...
 
 Previous lesson: stolbitsa.com/fistachka/umka<br><br>
 
