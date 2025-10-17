@@ -13,7 +13,9 @@
 Звездные медведи
 Светят дальним кораблям...
 
-Предыдущий урок: stolbitsa.com/fistachka/umka
+Предыдущий урок:
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/9bf52e5a-dd18-481b-8b01-9257918b4cd1=200x200)
+stolbitsa.com/fistachka/umka
 <br><br>
 
 <span id="en"><a href='#ru'>🇷🇺</a> &nbsp;&nbsp;&nbsp;<a href='#en'>🇺🇸</a> &nbsp;&nbsp;&nbsp;</span><br><br>
@@ -31,5 +33,7 @@ I vsyu noch' sosedi -
 Zvezdnye medvedi
 Svetyat dal'nim korablyam...
 
-Previous lesson: stolbitsa.com/fistachka/umka<br><br>
+Previous lesson:
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/9bf52e5a-dd18-481b-8b01-9257918b4cd1=200x200)
+stolbitsa.com/fistachka/umka<br><br>
 
