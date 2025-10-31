@@ -14,7 +14,7 @@
 Светят дальним кораблям...
 
 Предыдущий урок:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/9bf52e5a-dd18-481b-8b01-9257918b4cd1=200x200)
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/9bf52e5a-dd18-481b-8b01-9257918b4cd1 =200x200)
 stolbitsa.com/fistachka/umka
 <br><br>
 
@@ -34,6 +34,6 @@ Zvezdnye medvedi
 Svetyat dal'nim korablyam...
 
 Previous lesson:
-![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/9bf52e5a-dd18-481b-8b01-9257918b4cd1=200x200)
+![pexels-mccutcheon-1148998](https://github.com/user-attachments/assets/9bf52e5a-dd18-481b-8b01-9257918b4cd1 =200x200)
 stolbitsa.com/fistachka/umka<br><br>
 
